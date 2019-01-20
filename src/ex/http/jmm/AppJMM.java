@@ -1,4 +1,4 @@
-package ex.jmm;
+package ex.http.jmm;
 
 public class AppJMM {
     static volatile boolean ready = false; //если закоментить volatile программа подвиснет
