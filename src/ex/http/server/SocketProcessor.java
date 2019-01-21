@@ -1,4 +1,4 @@
-package ex.http.httpserver;
+package ex.http.server;
 
 import java.io.*;
 import java.net.Socket;
