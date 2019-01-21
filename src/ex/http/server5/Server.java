@@ -12,7 +12,7 @@ import java.io.OutputStream;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
 
-public class Sever {
+public class Server {
     public static void main(String[] args) throws IOException {
         final int backlog = 64;
         final InetSocketAddress socketAddress = new InetSocketAddress(80);
